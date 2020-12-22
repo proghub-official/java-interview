@@ -55,7 +55,7 @@
 + [Что такое wildcards](java.md#Что-такое-wildcards)
 
 # Java Collections
-+ [Чем отличается ArrayList от LinkedList?](collections.md#Чем- отличается-ArrayList-от-LinkedList?)
++ [Чем отличается ArrayList от LinkedList?](collections.md#Чем-отличается-ArrayList-от-LinkedList?)
 + [Всегда ли добавление в ArrayList имеет сложность O(1)?](collections.md#Всегда-ли-добавление-в-ArrayList-имеет-сложность-O(1)?)
 + [Collections.emptyList() или новый экземпляр](collections.md#Collections.emptyList()-или-новый-экземпляр)
 + [Какое начальное количество корзин в HashMap?](collections.md#Какое-начальное-количество-корзин-в-HashMap?)
@@ -71,7 +71,7 @@
 + [Чем отличается HashMap от Hashtable?](collections.md#Чем-отличается-HashMap-от-Hashtable?)
 + [Преимущества ConcurrentHashMap](collections.md#Преимущества-ConcurrentHashMap)
 + [Как используя HashMap получить бесконечный цикл](collections.md#Как-используя-HashMap-получить-бесконечный-цикл)
-+ [Почему Map не наследуется от Collection](collections.md#Почему Map-не-наследуется-от-Collection)
++ [Почему Map не наследуется от Collection](collections.md#Почему-Map-не-наследуется-от-Collection)
 + [Почему нельзя использовать byte[] в качестве ключа в HashMap?](collections.md#Почему-нельзя-использовать-byte[]-в-качестве-ключа-в-HashMap?)
 + [Какое дерево лежит в реализации TreeSet?](collections.md#Какое-дерево-лежит-в-реализации-TreeSet?)
 + [Почему нет конкретных реализаций интерфейса Iterator?](collections.md#Почему-нет-конкретных-реализаций-интерфейса-Iterator?)

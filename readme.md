@@ -1,13 +1,14 @@
 # Вопросы для собеседования на Java Developer
 
+:iphone: Telegram-канал - [@javaquiz](https://t.me/javaquiz)
+
+:pencil: Вы можете добавить свой вопрос с помощью пул реквеста
+
+# Темы
 + [Общие вопросы](#Общие-вопросы)
-
 + [Java Core](#Java-Core)
-
 + [Java Collections](#Java-Collections)
-
 + [Spring](#Spring)
-
 + [Базы данных](#Базы-данных)
 
 # Общие вопросы
